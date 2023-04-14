@@ -1,0 +1,228 @@
+﻿id;val
+ch_01;Albedo
+ch_02;Aloy
+ch_03;Amber
+ch_04;Arataki Itto
+ch_05;Barbara
+ch_06;Beidou
+ch_07;Bennett
+ch_08;Chongyun
+ch_09;Collei
+ch_10;Diluc
+ch_11;Diona
+ch_12;Dori
+ch_13;Eula
+ch_14;Fischl
+ch_15;Ganyu
+ch_16;Gorou
+ch_17;Hu Tao
+ch_18;Jean
+ch_19;Kaeya
+ch_20;Kaedehara Kazuha
+ch_21;Kamisato Ayaka
+ch_22;Kamisato Ayato
+ch_23;Keching
+ch_24;Klee
+ch_25;Kujou Sara
+ch_26;Kuki Shinobu
+ch_27;Lisa
+ch_28;Mona
+ch_29;Ningguang
+ch_30;Noelle
+ch_31;Qiqi
+ch_32;Razor
+ch_33;Rosaria
+ch_34;Sacarosa
+ch_35;Sangonomiya Kokomi
+ch_36;Sayu
+ch_37;Shenhe
+ch_38;Shikanoin Heizou
+ch_39;Shogun Raiden
+ch_40;Tartaglia
+ch_41;Thoma
+ch_42;Viajero/a Anemo
+ch_43;Viajero/a Electro
+ch_44;Viajero/a Geo
+ch_45;Venti
+ch_46;Xiangling
+ch_47;Xiao
+ch_48;Xingchiu
+ch_49;Xinyan
+ch_50;Yae Miko
+ch_51;Yanfei
+ch_52;Yelan
+ch_53;Yoimiya
+ch_54;Yun Jin
+ch_55;Zhongli
+ch_56;Tignari
+ch_57;Viajero/a Dendro
+status_1;Todos
+status_2;Build
+type_domain_1;Talento
+type_domain_2;Arma
+weapon_name_01;Ágata del Peñasco Oscuro
+weapon_name_02;Agitador del Relámpago
+weapon_name_03;Alabarda
+weapon_name_04;Alas Celestiales
+weapon_name_05;Aleta Cortaolas
+weapon_name_06;Anillo de Hakushin
+weapon_name_07;Apuntes del Aprendiz
+weapon_name_08;Aqua Simulacra
+weapon_name_09;Aquila Favonia
+weapon_name_10;Arco Compuesto
+weapon_name_100;Luna de Mouun
+weapon_name_101;Luna Inalterable
+weapon_name_102;Luna Ondulante de Futsu
+weapon_name_103;Luz del Segador
+weapon_name_104;Masacrademonios
+weapon_name_105;Médula de la Serpiente Marina
+weapon_name_106;Memorias de Sacrificios
+weapon_name_107;Mensajero
+weapon_name_108;Nefrita Gemela
+weapon_name_109;Oda a las Flores del Viento
+weapon_name_11;Arco de Amos
+weapon_name_110;Oda de los Pinos
+weapon_name_111;Ojo de la Perspicacia
+weapon_name_112;Ojo del Juramento
+weapon_name_113;Oración Perdida a los Vientos Sagrados
+weapon_name_114;Orbe Esmeralda
+weapon_name_115;Orgullo Celestial
+weapon_name_116;Pacificadora del Desastre
+weapon_name_117;Perdición del Dragón
+weapon_name_118;Perforalunas
+weapon_name_119;Pergamino Celestial
+weapon_name_12;Arco de Cuervo
+weapon_name_120;Perla Solar
+weapon_name_121;Pica Luna Creciente
+weapon_name_122;Prototipo Ámbar
+weapon_name_123;Prototipo Arcaico
+weapon_name_124;Prototipo Estelar
+weapon_name_125;Prototipo Luz de Luna
+weapon_name_126;Prototipo Rencor
+weapon_name_127;Púa Celestial
+weapon_name_128;Punta de Hierro
+weapon_name_129;Quartz
+weapon_name_13;Arco de Ébano
+weapon_name_130;Reflejo de las Tinieblas
+weapon_name_131;Rey de los Mares
+weapon_name_132;Rey del Mal
+weapon_name_133;Rompemontañas
+weapon_name_134;Rugido del León
+weapon_name_135;Segadora de la Lluvia
+weapon_name_136;Senda de la Cazadora
+weapon_name_137;Sinfonía de los Merodeadores
+weapon_name_138;Sombra Blanca
+weapon_name_139;Sombra férrea
+weapon_name_14;Arco de Favonius
+weapon_name_140;Tirachinas
+weapon_name_141;Último Acorde
+weapon_name_142;Vals Nocturno
+weapon_name_143;Vasalla del Rey
+weapon_name_144;Vino y Poesía
+weapon_name_15;Arco de la Cazadora Esmeralda
+weapon_name_16;Arco del Cazador
+weapon_name_17;Arco del Cazador Estacional
+weapon_name_18;Arco del Peñasco Oscuro
+weapon_name_19;Arco del Sacrificio
+weapon_name_20;Arco Real
+weapon_name_21;Arco Recurvo
+weapon_name_22;Argento Estelar de las Nieves
+weapon_name_23;Asesinato de Katsuragi
+weapon_name_24;Axioma de la Kagura
+weapon_name_25;Báculo de Homa
+weapon_name_26;Borla Blanca
+weapon_name_27;Borla Negra
+weapon_name_28;Candado Terrenal
+weapon_name_29;Carta Náutica
+weapon_name_30;Catalizador Ámbar
+weapon_name_31;Cazador del Callejón
+weapon_name_32;Códice de Favonius
+weapon_name_33;Cortador de Jade Primordial
+weapon_name_34;Cruz de Kitain
+weapon_name_35;Cuentos de Cazadores de Dragones
+weapon_name_36;Cuentos de Dodoco
+weapon_name_37;Depredador
+weapon_name_38;Deseo Ponzoñoso
+weapon_name_39;Destello en la Oscuridad
+weapon_name_40;Desvanecimiento del Crepúsculo
+weapon_name_41;Elegía del Fin
+weapon_name_42;Espada Amenoma Gemela
+weapon_name_43;Espada de Favonius
+weapon_name_44;Espada de Hierro Blanco
+weapon_name_45;Espada de Hierro Oscuro
+weapon_name_46;Espada de la Desidia
+weapon_name_47;Espada de Madera
+weapon_name_48;Espada de Sacrificio
+weapon_name_49;Espada del Alba
+weapon_name_50;Espada del Descenso
+weapon_name_51;Espada del Mercenerio
+weapon_name_52;Espada del Tiempo
+weapon_name_53;Espada del Viajero
+weapon_name_54;Espada Larga del Penñasco Oscuro
+weapon_name_55;Espada Lítica
+weapon_name_56;Espada Negra
+weapon_name_57;Espada Plateada
+weapon_name_58;Espada Real del Bosque
+weapon_name_59;Espada Real Larga
+weapon_name_60;Espada Surcacielos
+weapon_name_61;Espadón Cornirrojo
+weapon_name_62;Espina de Hierro
+weapon_name_63;Estrella Invernal
+weapon_name_64;Fin de las Aguas
+weapon_name_65;Flauta
+weapon_name_66;Frío Eterno
+weapon_name_67;Fruto de la Culminación
+weapon_name_68;Garrote del Debate
+weapon_name_69;Gran Espada de Favonius
+weapon_name_70;Gran Espada de Sacrificio
+weapon_name_71;Gran Espada del Guerrero
+weapon_name_72;Gran Espada Real
+weapon_name_73;Gran Espada Sangrienta
+weapon_name_74;Gran Espada Surcacielos
+weapon_name_75;Gran Hoja del Peñasco Oscuro
+weapon_name_76;Grimorio de Bolsillo
+weapon_name_77;Grimorio Real
+weapon_name_78;Guía Mágica
+weapon_name_79;Halcón de Jade
+weapon_name_80;Herrumbre
+weapon_name_81;Historias de Otros Mundos
+weapon_name_82;Hoja Afilada Celestial
+weapon_name_83;Hoja de Filetear
+weapon_name_84;Hoja Desafilada
+weapon_name_85;Hoja Fría
+weapon_name_86;Huso de Cinabrio
+weapon_name_87;Juramento del Arquero
+weapon_name_88;Juramento por la Libertad
+weapon_name_89;Kagotsurube Isshin
+weapon_name_90;La Captura
+weapon_name_91;Lanza de Caza Real
+weapon_name_92;Lanza de Espinadragón
+weapon_name_93;Lanza de Favonius
+weapon_name_94;Lanza del Duelo
+weapon_name_95;Lanza del Peñasco Oscuro
+weapon_name_96;Lanza del Principiante
+weapon_name_97;Lanza Lítica
+weapon_name_98;Lanza Perforanubes
+weapon_name_99;Lápida del Lobo
+ch_58;Cyno
+ch_59;Candace
+ch_60;Nilou
+ch_61;Nahida
+ch_62;Laila
+ch_63;Trotamundos
+ch_64;Faruzán
+ch_65;Alhacén
+ch_66;Yao Yao
+ch_67;Dehya
+ch_68;Mika
+weapon_name_145;Báculo de las Arenas Escarlatas
+weapon_name_146;Májaira Aguamarina
+weapon_name_147;Llave de la Coronación
+weapon_name_148;Luz Lunar de Xifos
+weapon_name_149;Estrella Errabunda
+weapon_name_150;Alabarda del Viento Epistolar
+weapon_name_151;Reminiscencia de Tulaytulah
+weapon_name_152;Diluvio Florífero
+weapon_name_153;Clorofilo Refulgente
+weapon_name_154;Emblema del Mar de Juncos
+weapon_name_155;Fierro Floriorlado

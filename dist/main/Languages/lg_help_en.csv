@@ -1,0 +1,228 @@
+﻿id;val
+ch_01;Albedo
+ch_02;Aloy
+ch_03;Amber
+ch_04;Arataki Itto
+ch_05;Barbara
+ch_06;Beidou
+ch_07;Bennett
+ch_08;Chongyun
+ch_09;Collei
+ch_10;Diluc
+ch_11;Diona
+ch_12;Dori
+ch_13;Eula
+ch_14;Fischl
+ch_15;Ganyu
+ch_16;Gorou
+ch_17;Hu Tao
+ch_18;Jean
+ch_19;Kaeya
+ch_20;Kaedehara Kazuha
+ch_21;Kamisato Ayaka
+ch_22;Kamisato Ayato
+ch_23;Keqing
+ch_24;Klee
+ch_25;Kujou Sara
+ch_26;Kuki Shinobu
+ch_27;Lisa
+ch_28;Mona
+ch_29;Ningguang
+ch_30;Noelle
+ch_31;Qiqi
+ch_32;Razor
+ch_33;Rosaria
+ch_34;Sucrose
+ch_35;Sangonomiya Kokomi
+ch_36;Sayu
+ch_37;Shenhe
+ch_38;Shikanoin Heizou
+ch_39;Raiden Shogun
+ch_40;Tartaglia
+ch_41;Thoma
+ch_42;Traveler Anemo
+ch_43;Traveler Electro
+ch_44;Traveler Geo
+ch_45;Venti
+ch_46;Xiangling
+ch_47;Xiao
+ch_48;Xingqiu
+ch_49;Xinyan
+ch_50;Yae Miko
+ch_51;Yanfei
+ch_52;Yelan
+ch_53;Yoimiya
+ch_54;Yun Jin
+ch_55;Zhongli
+ch_56;Tignari
+ch_57;Traveler Dendro
+status_1;No Build
+status_2;Build
+type_domain_1;Talent
+type_domain_2;Weapon
+weapon_name_01;Blackcliff Agate
+weapon_name_02;Thundering Pulse
+weapon_name_03;Halberd
+weapon_name_04;Skyward Harp
+weapon_name_05;Wavebreaker's Fin
+weapon_name_06;Hakushin Ring
+weapon_name_07;Apprentice's Notes
+weapon_name_08;Aqua Simulacra
+weapon_name_09;Aquila Favonia
+weapon_name_10;Compound Bow
+weapon_name_100;Mouun's Moon
+weapon_name_101;Everlasting Moonglow
+weapon_name_102;Haran Geppaku Futsu
+weapon_name_103;Engulfing Lightning
+weapon_name_104;Hamayumi
+weapon_name_105;Serpent Spine
+weapon_name_106;Sacrificial Fragments
+weapon_name_107;Messenger
+weapon_name_108;Twin Nephrite
+weapon_name_109;Windblume Ode
+weapon_name_11;Amos' Bow
+weapon_name_110;Song of Broken Pines
+weapon_name_111;Eye of Perception
+weapon_name_112;Oathsworn Eye
+weapon_name_113;Lost Prayer to the Sacred Winds
+weapon_name_114;Emerald Orb
+weapon_name_115;Skyward Pride
+weapon_name_116;Calamity Queller
+weapon_name_117;Dragon's Bane
+weapon_name_118;Moonpiercer
+weapon_name_119;Skyward Atlas
+weapon_name_12;Raven Bow
+weapon_name_120;Solar Pearl
+weapon_name_121;Crescent Pike
+weapon_name_122;Prototype Amber
+weapon_name_123;Prototype Archaic
+weapon_name_124;Prototype Starglitter
+weapon_name_125;Prototype Crescent
+weapon_name_126;Prototype Rancour
+weapon_name_127;Skyward Spine
+weapon_name_128;Iron Point
+weapon_name_129;Quartz
+weapon_name_13;Ebony Bow
+weapon_name_130;Mistsplitter Reforged
+weapon_name_131;Luxurious Sea-Lord
+weapon_name_132;Akuoumaru
+weapon_name_133;Summit Shaper
+weapon_name_134;Lion's Roar
+weapon_name_135;Rainslasher
+weapon_name_136;Hunter's Path
+weapon_name_137;The Widsith
+weapon_name_138;Whiteblind
+weapon_name_139;Ferrous Shadow
+weapon_name_14;Favonius Warbow
+weapon_name_140;Slingshot
+weapon_name_141;The Stringless
+weapon_name_142;Mitternachts Waltz
+weapon_name_143;King's Squire
+weapon_name_144;Wine and Song
+weapon_name_15;The Viridescent Hunt
+weapon_name_16;Hunter's Bow
+weapon_name_17;Seasoned Hunter's Bow
+weapon_name_18;Blackcliff Warbow
+weapon_name_19;Sacrificial Bow
+weapon_name_20;Royal Bow
+weapon_name_21;Recurve Bow
+weapon_name_22;Snow-Tombed Starsilver
+weapon_name_23;Katsuragikiri Nagamasa
+weapon_name_24;Kagura's Verity
+weapon_name_25;Staff of Homa
+weapon_name_26;White Tassel
+weapon_name_27;Black Tassel
+weapon_name_28;Memory of Dust
+weapon_name_29;Mappa Mare
+weapon_name_30;Amber Catalyst
+weapon_name_31;Alley Hunter
+weapon_name_32;Favonius Codex
+weapon_name_33;Primordial Jade Cutter
+weapon_name_34;Kitain Cross Spear
+weapon_name_35;Thrilling Tales of Dragon Slayers
+weapon_name_36;Dodoco Tales
+weapon_name_37;Predator
+weapon_name_38;Festering Desire
+weapon_name_39;The Alley Flash
+weapon_name_40;Fading Twilight
+weapon_name_41;Elegy for the End
+weapon_name_42;Amenoma Kageuchi
+weapon_name_43;Favonius Sword
+weapon_name_44;White Iron Greatsword
+weapon_name_45;Dark Iron Sword
+weapon_name_46;The Unforged
+weapon_name_47;Sapwood Blade
+weapon_name_48;Sacrificial Sword
+weapon_name_49;Harbinger of Dawn
+weapon_name_50;Sword of Descension
+weapon_name_51;Old Merc's Pal
+weapon_name_52;The Bell
+weapon_name_53;Traveler's Handy Sword
+weapon_name_54;Blackcliff Longsword
+weapon_name_55;Lithic Blade
+weapon_name_56;The Black Sword
+weapon_name_57;Silver Sword
+weapon_name_58;Forest Regalia
+weapon_name_59;Royal Longsword
+weapon_name_60;Skyrider Sword
+weapon_name_61;Redhorn Stonethresher
+weapon_name_62;Iron Sting
+weapon_name_63;Polar Star
+weapon_name_64;End of the Line
+weapon_name_65;The Flute
+weapon_name_66;Frostbearer
+weapon_name_67;Fruit of Fulfillment
+weapon_name_68;Debate Club
+weapon_name_69;Favonius Greatsword
+weapon_name_70;Sacrificial Greatsword
+weapon_name_71;Waster Greatsword
+weapon_name_72;Royal Greatsword
+weapon_name_73;Bloodtainted Greatsword
+weapon_name_74;Skyrider Greatsword
+weapon_name_75;Blackcliff Slasher
+weapon_name_76;Pocket Grimoire
+weapon_name_77;Royal Grimoire
+weapon_name_78;Magic Guide
+weapon_name_79;Primordial Jade Winged-Spear
+weapon_name_80;Rust
+weapon_name_81;Otherworldly Story
+weapon_name_82;Skyward Blade
+weapon_name_83;Fillet Blade
+weapon_name_84;Dull Blade
+weapon_name_85;Cool Steel
+weapon_name_86;Cinnabar Spindle
+weapon_name_87;Sharpshooter's Oath
+weapon_name_88;Freedom-Sworn
+weapon_name_89;Kagotsurube Isshin
+weapon_name_90;The Catch
+weapon_name_91;Royal Spear
+weapon_name_92;Dragonspine Spear
+weapon_name_93;Favonius Lance
+weapon_name_94;Deathmatch
+weapon_name_95;Blackcliff Pole
+weapon_name_96;Beginner's Protector
+weapon_name_97;Lithic Spear
+weapon_name_98;Vortex Vanquisher
+weapon_name_99;Wolf's Gravestone
+ch_58;Cyno
+ch_59;Candace
+ch_60;Nilou
+ch_61;Nahida
+ch_62;Layla
+ch_63;Wanderer
+ch_64;Faruzan
+ch_65;Alhaitham
+ch_66;Yaoyao
+ch_67;Dehya
+ch_68;Mika
+weapon_name_145;Staff of the Scarlet Sands
+weapon_name_146;Makhaira Aquamarine
+weapon_name_147;Key of Khaj-Nisut
+weapon_name_148;Xiphos' Moonlight
+weapon_name_149;Wandering Evenstar
+weapon_name_150;Missive Windspear
+weapon_name_151;Tulaytullah's Remembrance
+weapon_name_152;Toukabou Shigure
+weapon_name_153;Light of Foliar Incision
+weapon_name_154;Beacon of the Reed Sea
+weapon_name_155;Mailed Flower

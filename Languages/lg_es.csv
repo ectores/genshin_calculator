@@ -1,0 +1,580 @@
+﻿id;val
+boss_daily_name_01;Espantohongo Plumaverde
+boss_daily_name_02;Hipostasis Anemo
+boss_daily_name_03;Hipostasis Cryo
+boss_daily_name_04;Hipostasis Electro
+boss_daily_name_05;Hipostasis Geo
+boss_daily_name_06;Hipostasis Hydro
+boss_daily_name_07;Hipostasis Pyro
+boss_daily_name_08;Manada de Dragartos de las Profundidades
+boss_daily_name_09;Manifestacion del Trueno
+boss_daily_name_10;Maquinaria Eterna
+boss_daily_name_11;Oni Espadachin
+boss_daily_name_12;Protodagarto Geo
+boss_daily_name_13;Regisvid Cryo
+boss_daily_name_14;Regisvid Electro
+boss_daily_name_15;Regisvid Pyro
+boss_daily_name_16;Rey Acechador Dorado
+boss_daily_name_17;Rhodeia
+boss_daily_name_18;Serpiente de las Ruinas
+boss_weekly_name_01;Azhdaha
+boss_weekly_name_02;Guardiana de la Eternidad
+boss_weekly_name_03;Lobo del Norte
+boss_weekly_name_04;Nobile
+boss_weekly_name_05;Signora
+boss_weekly_name_06;Stormterror
+button_1_part1;Cancelar
+button_1_part2;Cambios
+button_10_part1;Item Boss
+button_10_part2;Normal
+button_10_part3;
+button_11_part1;Item Boss
+button_11_part2;Semanal
+button_11_part3;
+button_2_part1;Guardar
+button_2_part2;Cambios
+button_3;Página 
+button_3a;Página Anterior
+button_3b;Página Siguiente
+button_4_part1;Cristal de
+button_4_part2;Elementos
+button_4_part3;
+button_5_part1;Libro de
+button_5_part2;Talentos
+button_5_part3;
+button_6_part1;Mat. de
+button_6_part2;Asc. Arma
+button_6_part3;
+button_7_part1;Mat. Común 1
+button_7_part2;(T2-T4)
+button_7_part3;
+button_8_part1;Mat. Común 2
+button_8_part2;(T1-T3)
+button_8_part3;
+button_9_part1;Material
+button_9_part2;Local
+button_9_part3;
+ch_01;Albedo
+ch_02;Aloy
+ch_03;Amber
+ch_04;Arataki Itto
+ch_05;Barbara
+ch_06;Beidou
+ch_07;Bennett
+ch_08;Chongyun
+ch_09;Collei
+ch_10;Diluc
+ch_11;Diona
+ch_12;Dori
+ch_13;Eula
+ch_14;Fischl
+ch_15;Ganyu
+ch_16;Gorou
+ch_17;Hu Tao
+ch_18;Jean
+ch_19;Kaeya
+ch_20;Kaedehara Kazuha
+ch_21;Kamisato Ayaka
+ch_22;Kamisato Ayato
+ch_23;Keching
+ch_24;Klee
+ch_25;Kujou Sara
+ch_26;Kuki Shinobu
+ch_27;Lisa
+ch_28;Mona
+ch_29;Ningguang
+ch_30;Noelle
+ch_31;Qiqi
+ch_32;Razor
+ch_33;Rosaria
+ch_34;Sacarosa
+ch_35;Sangonomiya Kokomi
+ch_36;Sayu
+ch_37;Shenhe
+ch_38;Shikanoin Heizou
+ch_39;Shogun Raiden
+ch_40;Tartaglia
+ch_41;Thoma
+ch_42;Viajero/a Anemo
+ch_43;Viajero/a Electro
+ch_44;Viajero/a Geo
+ch_45;Venti
+ch_46;Xiangling
+ch_47;Xiao
+ch_48;Xingchiu
+ch_49;Xinyan
+ch_50;Yae Miko
+ch_51;Yanfei
+ch_52;Yelan
+ch_53;Yoimiya
+ch_54;Yun Jin
+ch_55;Zhongli
+ch_56;Tignari
+ch_57;Viajero/a Dendro
+ch_58;Cyno
+ch_59;Candace
+ch_60;Nilou
+ch_61;Nahida
+ch_62;Laila
+ch_63;Trotamundos
+ch_64;Faruzán
+ch_65;Alhacén
+ch_66;Yao Yao
+ch_67;Dehya
+ch_68;Mika
+day_1;Lunes y Jueves
+day_2;Martes y Viernes
+day_3;Miercoles y Sabado
+domain_01;M - Cañón del Olvido
+domain_02;L - Mansión Taishan
+domain_03;I - Jardín de los Pensamientos
+domain_04;S - Estupa Avidya
+domain_05;M - Jardín de cecilias
+domain_06;L - Palacio oculto de la fórmula Lianshan
+domain_07;I - Jardín de Sunagare
+domain_08;S - Estupa Akanishta
+element_1;Anemo
+element_2;Cryo
+element_3;Dendro
+element_4;Electro
+element_5;Geo
+element_6;Hydro
+element_7;Pyro
+element_cristal_1;Amatista vajrada
+element_cristal_2;Jade shivada
+element_cristal_3;Esmeralda nagadus
+element_cristal_4;Turquesa vayuda
+element_cristal_5;Topacio prithiva
+element_cristal_6;Lazurita varunada
+element_cristal_7;Ágata agnidus
+error_01;El nivel de Personaje es mayor al nivel objetivo
+error_02;El nivel del arma es mayor al nivel objetivo del arma
+error_03;El nivel actual de Talentos Basico es mayor al nivel objetivo de Talentos Basico
+error_04;El nivel actual de Talentos Elemental es mayor al nivel objetivo de Talentos Elemental
+error_05;El nivel actual de Talentos Definitivo es mayor al nivel objetivo de Talentos Definitivo
+error_06;La Ascensión actual de personaje es mayor al nivel de personaje actual
+error_07;La Ascensión actual del arma es mayor al nivel del arma actual
+error_08;El nivel no es un número entero
+error_09;El nivel objetivo no es un número entero
+error_10;El nivel del arma no es un número entero
+error_11;El nivel objetivo del arma no es un número entero
+error_12;El actual de Talento Basico no es un número entero
+error_13;El actual de Talento Elemental no es un número entero
+error_14;El actual de Talento Definitivo no es un número entero
+error_15;El objetivo de Talentos Basico no es un número entero
+error_16;El objetivo de Talentos Elemental no es un número entero
+error_17;El objetivo de Talentos Definitivo no es un número entero
+error_18;El número de Constelación no es un número entero
+error_19;El nivel ingresado está fuera de los lí­mites permitidos
+error_20;El nivel objetivo ingresado está fuera de los lí­mites permitidos
+error_21;El nivel del arma ingresado está fuera de los lí­mites permitidos
+error_22;El nivel objetivo del arma ingresado está fuera de los lí­mites permitidos
+error_23;El Talento Básico actual está fuera de los lí­mites permitidos
+error_24;El Talento Elemental actual está fuera de los lí­mites permitidos
+error_25;El Talento Definitivo actual está fuera de los lí­mites permitidos
+error_26;El Talento Básico objetivo está fuera de los lí­mites permitidos
+error_27;El Talento Elemental objetivo está fuera de los lí­mites permitidos
+error_28;El Talento Definitivo objetivo está fuera de los lí­mites permitidos
+error_29;El número de Constelación está fuera de los lí­mites permitidos
+error_30;La Ascensión actual de personaje no está entre los valores de la lista
+error_31;La Ascensión objetivo de personaje es mayor al nivel objetivo de personaje
+error_32;La Ascensión objetivo de personaje no está entre los valores de la lista
+error_33;La Ascensión actual del arma no está entre los valores de la lista
+error_34;La Ascensión objetivo del arma es mayor al nivel objetivo del arma
+error_35;La Ascensión objetivo del arma no está entre los valores de la lista
+error_36;La cantidad de Tier 1 de algún item no es un número entero
+error_37;La cantidad de Tier 2 de algún item no es un número entero
+error_38;La cantidad de Tier 3 de algún item no es un número entero
+error_39;La cantidad de Tier 4 de algún item no es un número entero
+error_40;La cantidad de Tier 5 de algún item no es un número entero
+error_q_1;El llenado de datos tiene 1 error
+error_q_2a;El llenado de datos tiene 
+error_q_2b; errores
+mat_boss_daily_01;Picogancho fúngico
+mat_boss_daily_02;Semilla de huracan
+mat_boss_daily_03;Flor cristalina
+mat_boss_daily_04;Prisma del relámpago
+mat_boss_daily_05;Pilar de basalto
+mat_boss_daily_06;Rocío del rechazo
+mat_boss_daily_07;Perla abrasante
+mat_boss_daily_08;Pseudoaleta de dragón de las profundidades
+mat_boss_daily_09;Abalorio de la Tempestad
+mat_boss_daily_10;Corazón de la eternidad
+mat_boss_daily_11;Engranaje Oni
+mat_boss_daily_12;Jade inmaduro
+mat_boss_daily_13;Nucleo de escarcha
+mat_boss_daily_14;Fruto atronador
+mat_boss_daily_15;Semilla de fuego eterno
+mat_boss_daily_16;Cuerno del Rey Acechador
+mat_boss_daily_17;Corazón purificador
+mat_boss_daily_18;Colmillo rúnico
+mat_boss_daily_19;Tetraedro guialuz
+mat_boss_daily_20;Resorte perpetuo
+mat_boss_daily_21;Trepadora supresora
+mat_boss_daily_22;Pseudoestambre
+mat_boss_weekly_01;Corona del rey dragón
+mat_boss_weekly_02;Rama de jade carmesí
+mat_boss_weekly_03;Escama dorada
+mat_boss_weekly_04;Mudra de la Shogun implacable
+mat_boss_weekly_05;Máxima de la catástrofe
+mat_boss_weekly_06;Lágrima de la diosa del desastre
+mat_boss_weekly_07;Cola de Boreas
+mat_boss_weekly_08;Anillo de Boreas
+mat_boss_weekly_09;Alma de Boreas
+mat_boss_weekly_10;Cuerno de Monoceros Caeli
+mat_boss_weekly_11;Fragmento de espada de Legado del mal
+mat_boss_weekly_12;Sombra del guerrero
+mat_boss_weekly_13;Momento del derretimiento
+mat_boss_weekly_14;Mariposa del fuego infernal
+mat_boss_weekly_15;Corazón de las cenizas
+mat_boss_weekly_16;Pluma de Stormterror
+mat_boss_weekly_17;Garra de Stormterror
+mat_boss_weekly_18;Suspiro de Stormterror
+mat_boss_weekly_19;Tubo de marioneta
+mat_boss_weekly_20;Espejo del mushin
+mat_boss_weekly_21;Cascabel de anulación
+mat_common_1_01;BETA
+mat_common_1_02;Brotes de lineas ley
+mat_common_1_03;Caldera del caos
+mat_common_1_04;Cuerno con cristal negro
+mat_common_1_05;Daga larga del Inspector
+mat_common_1_06;Lámpara de hierba neblinosa
+mat_common_1_07;Estatuilla de las profundidades
+mat_common_1_08;Fragmento de hueso fosilizado
+mat_common_1_09;Garra fantasmal oculta
+mat_common_1_10;Núcleo fúngico robusto
+mat_common_1_11;Ojo del caos
+mat_common_1_12;Perno del caos
+mat_common_1_13;Prisma polarizador
+mat_common_1_14;Prisma radiante
+mat_common_1_15;Caparazón grabado
+mat_common_2_01;BETA
+mat_common_2_02;Brocado rojo lujoso
+mat_common_2_03;Esencia de slime
+mat_common_2_04;Flecha veterana
+mat_common_2_05;Guardamano célebre
+mat_common_2_06;Insignia de cuervo dorada
+mat_common_2_07;Insignia del oficial
+mat_common_2_08;Máscara amenazante
+mat_common_2_09;Néctar energético
+mat_common_2_10;Núcleo espectral
+mat_common_2_11;Pergamino maldito
+mat_common_2_12;Polvo quistecristalino
+mat_domain_book_01;Libertad
+mat_domain_book_02;Resistencia
+mat_domain_book_03;Poesia
+mat_domain_book_04;Prosperidad
+mat_domain_book_05;Esfuerzo
+mat_domain_book_06;Oro
+mat_domain_book_07;Transitoriedad
+mat_domain_book_08;Elegancia
+mat_domain_book_09;Luz
+mat_domain_book_10;Exhortacion
+mat_domain_book_11;Ingenio
+mat_domain_book_12;Praxis
+mat_domain_weapon_01;BETA
+mat_domain_weapon_02;Cuerpo divino de Guyun
+mat_domain_weapon_03;Esencia del oasis exuberante
+mat_domain_weapon_04;Fragmento de sueño de Decarabian
+mat_domain_weapon_05;Ideales de Diente de LeÓn
+mat_domain_weapon_06;Máscara fantasmagórica
+mat_domain_weapon_07;Nostalgia del lobo boreal
+mat_domain_weapon_08;Pasado del poder del sol
+mat_domain_weapon_09;Perdigones primordiales
+mat_domain_weapon_10;Rama dorada del mar distante
+mat_domain_weapon_11;Talismán de oro del rocío
+mat_domain_weapon_12;Trozo de siderita oscura
+mat_domain_weapon_13;Valentia de Narukami
+mat_local_01;Campanita de cristal
+mat_local_02;Caracola estelar
+mat_local_03;Cecilia
+mat_local_04;Champiñón rukkhashava
+mat_local_05;Chile de Jueyun
+mat_local_06;Cor lapis
+mat_local_07;Dendrobio
+mat_local_08;Escaradiablo
+mat_local_09;Flor chingxin
+mat_local_10;Flor de seda
+mat_local_11;Fruto amakumo
+mat_local_12;Gancho de lobo
+mat_local_13;Hongo fluorescente
+mat_local_14;Hongo Marino
+mat_local_15;Jade noctilucoso
+mat_local_16;Lirio cala
+mat_local_17;Lirio de cristal
+mat_local_18;Loto kalpa
+mat_local_19;Loto nilotpala
+mat_local_20;Lucetta
+mat_local_21;Margarita voladora
+mat_local_22;Médula cristalizada
+mat_local_23;Percibetormentas
+mat_local_24;Perla de coral
+mat_local_25;Pétalos de cerezo
+mat_local_26;Semilla de diente de león
+mat_local_27;Seta filanemo
+mat_local_28;Valbaya
+mat_local_29;Escarabajo dorado
+mat_local_30;Añoraescarlata
+mat_local_31;Orquidea padishá
+mat_local_32;Crisálida arenosa
+menu_1;Lista de Personajes
+menu_2;Mis Personajes
+menu_3;Menú Resumen
+menu_4;Inventario / Calculadora
+menu_5;Configuración
+message_1;Guardar Ajustes
+message_10;¿Desea eliminar al Personaje?
+message_11;Esto eliminará al Personaje de tu equipo 
+message_12;Personaje Eliminado
+message_13;Se ha eliminado al Personaje
+message_14;Personaje Agregado
+message_15;Se ha agregado al Personaje
+message_16;Personaje no existente
+message_17;El Personaje a añadir no está en tu equipo. Selecciona un personaje de la lista.
+message_18;¿Desea cambiar el idioma?
+message_19;Usted cambiará el idioma de 
+message_2;¿Desea guardar los ajustes actuales?
+message_20; a 
+message_21;Idioma cambiado
+message_22;Por favor, reinicie la aplicación para ver los cambios
+message_3;Error
+message_4;Ha ingresado valores no permitidos
+message_5;Guardar Cambios
+message_6;Los cambios se han guardado
+message_7;Deshacer Cambios
+message_8;Los cambios se han revertido
+message_9;Eliminar Personaje
+status_1;Todos
+status_2;Build
+text_1;Selecciona un Personaje
+text_10;Objetivo
+text_11;Nivel Objetivo: 
+text_12;Nivel Obj. del Arma: 
+text_13;Ascensión del Arma: 
+text_14;Básico
+text_15;Elemental
+text_16;Definitiva
+text_17;MENÚ DE EDICIÓN DE PERSONAJE
+text_18;Estado: 
+text_19;-->
+text_2;Nivel Actual: 
+text_20;Listo
+text_21;No Listo
+text_22;Personaje Seleccionado :D
+text_23;RESUMEN PERSONAJE
+text_24;Mora: 
+text_25;XP Personaje: 
+text_26;XP Arma: 
+text_27;Estado Personaje
+text_28;Nivel
+text_29;Arma
+text_3;Ascensión Objetivo: 
+text_30;Talentos
+text_31;RESUMEN GENERAL
+text_32;Personajes a Buildear
+text_33;Todos tus Personajes
+text_34;Personaje no Disponible
+text_35;Selecciona a los Personajes que tienes en tu cuenta para analizar tu equipo.
+text_36;Luego podrás calcular la XP, Mora y objetos necesarios para mejorarlos.
+text_37;Elemento: 
+text_38;Arma: 
+text_39;Talento: 
+text_4;Constelación: 
+text_40;Pincha para agregar
+text_41;Pincha para eliminar
+text_42;Selecciona la Categoría de objetos para ver y/o editar tu Inventario Actual.
+text_43;Recuerda Guardar los Cambios luego de editar los campos.
+text_44;Item no Disponible
+text_45;Actual ---> Objetivo (Buildear)
+text_46;Total
+text_47;Tier 
+text_48;Ascensión Actual: 
+text_49;Ascensión Obj. Arma: 
+text_5;Arma: 
+text_50;Otros...
+text_51;Farmeo listo
+text_52a;PJ Build listo.
+text_52b;Farmea ahora PJ No Build
+text_53;Farmear PJ Build
+text_54;Tipo de Dominio
+text_55;Estado PJ
+text_56;"Resumen Personajes ""Build"""
+text_57;Resumen General
+text_58;XP de Arma
+text_59;Idioma: 
+text_6;Nivel del Arma: 
+text_60;Versión:
+text_61;Agredecimientos a:
+text_62a;Genshin Impact Wiki (https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
+text_62b; -Por la información de objetos, personajes, además de imágenes de objetos.
+text_63a;Honey Impact (https://genshin.honeyhunterworld.com/)
+text_63b; -Por las imágenes de personajes.
+text_64a;LtFabin (https://github.com/fabaindaiz)
+text_64b; -Por ayudarme con Python y entender cosas que de otro modo no sabría.
+text_7;Ascensión: 
+text_8;Talentos:    
+text_9;Actual
+type_day_1;Normal
+type_day_2;Semanal
+type_domain_1;Talento
+type_domain_2;Arma
+weapon_name_01;Ágata del Peñasco Oscuro
+weapon_name_02;Agitador del Relámpago
+weapon_name_03;Alabarda
+weapon_name_04;Alas Celestiales
+weapon_name_05;Aleta Cortaolas
+weapon_name_06;Anillo de Hakushin
+weapon_name_07;Apuntes del Aprendiz
+weapon_name_08;Aqua Simulacra
+weapon_name_09;Aquila Favonia
+weapon_name_10;Arco Compuesto
+weapon_name_100;Luna de Mouun
+weapon_name_101;Luna Inalterable
+weapon_name_102;Luna Ondulante de Futsu
+weapon_name_103;Luz del Segador
+weapon_name_104;Masacrademonios
+weapon_name_105;Médula de la Serpiente Marina
+weapon_name_106;Memorias de Sacrificios
+weapon_name_107;Mensajero
+weapon_name_108;Nefrita Gemela
+weapon_name_109;Oda a las Flores del Viento
+weapon_name_11;Arco de Amos
+weapon_name_110;Oda de los Pinos
+weapon_name_111;Ojo de la Perspicacia
+weapon_name_112;Ojo del Juramento
+weapon_name_113;Oración Perdida a los Vientos Sagrados
+weapon_name_114;Orbe Esmeralda
+weapon_name_115;Orgullo Celestial
+weapon_name_116;Pacificadora del Desastre
+weapon_name_117;Perdición del Dragón
+weapon_name_118;Perforalunas
+weapon_name_119;Pergamino Celestial
+weapon_name_12;Arco de Cuervo
+weapon_name_120;Perla Solar
+weapon_name_121;Pica Luna Creciente
+weapon_name_122;Prototipo Ámbar
+weapon_name_123;Prototipo Arcaico
+weapon_name_124;Prototipo Estelar
+weapon_name_125;Prototipo Luz de Luna
+weapon_name_126;Prototipo Rencor
+weapon_name_127;Púa Celestial
+weapon_name_128;Punta de Hierro
+weapon_name_129;Quartz
+weapon_name_13;Arco de Ébano
+weapon_name_130;Reflejo de las Tinieblas
+weapon_name_131;Rey de los Mares
+weapon_name_132;Rey del Mal
+weapon_name_133;Rompemontañas
+weapon_name_134;Rugido del León
+weapon_name_135;Segadora de la Lluvia
+weapon_name_136;Senda de la Cazadora
+weapon_name_137;Sinfonía de los Merodeadores
+weapon_name_138;Sombra Blanca
+weapon_name_139;Sombra férrea
+weapon_name_14;Arco de Favonius
+weapon_name_140;Tirachinas
+weapon_name_141;Último Acorde
+weapon_name_142;Vals Nocturno
+weapon_name_143;Vasalla del Rey
+weapon_name_144;Vino y Poesía
+weapon_name_145;Báculo de las Arenas Escarlatas
+weapon_name_146;Májaira Aguamarina
+weapon_name_147;Llave de la Coronación
+weapon_name_148;Luz Lunar de Xifos
+weapon_name_149;Estrella Errabunda
+weapon_name_15;Arco de la Cazadora Esmeralda
+weapon_name_150;Alabarda del Viento Epistolar
+weapon_name_151;Reminiscencia de Tulaytulah
+weapon_name_152;Diluvio Florífero
+weapon_name_153;Clorofilo Refulgente
+weapon_name_154;Emblema del Mar de Juncos
+weapon_name_155;Fierro Floriorlado
+weapon_name_16;Arco del Cazador
+weapon_name_17;Arco del Cazador Estacional
+weapon_name_18;Arco del Peñasco Oscuro
+weapon_name_19;Arco del Sacrificio
+weapon_name_20;Arco Real
+weapon_name_21;Arco Recurvo
+weapon_name_22;Argento Estelar de las Nieves
+weapon_name_23;Asesinato de Katsuragi
+weapon_name_24;Axioma de la Kagura
+weapon_name_25;Báculo de Homa
+weapon_name_26;Borla Blanca
+weapon_name_27;Borla Negra
+weapon_name_28;Candado Terrenal
+weapon_name_29;Carta Náutica
+weapon_name_30;Catalizador Ámbar
+weapon_name_31;Cazador del Callejón
+weapon_name_32;Códice de Favonius
+weapon_name_33;Cortador de Jade Primordial
+weapon_name_34;Cruz de Kitain
+weapon_name_35;Cuentos de Cazadores de Dragones
+weapon_name_36;Cuentos de Dodoco
+weapon_name_37;Depredador
+weapon_name_38;Deseo Ponzoñoso
+weapon_name_39;Destello en la Oscuridad
+weapon_name_40;Desvanecimiento del Crepúsculo
+weapon_name_41;Elegía del Fin
+weapon_name_42;Espada Amenoma Gemela
+weapon_name_43;Espada de Favonius
+weapon_name_44;Espada de Hierro Blanco
+weapon_name_45;Espada de Hierro Oscuro
+weapon_name_46;Espada de la Desidia
+weapon_name_47;Espada de Madera
+weapon_name_48;Espada de Sacrificio
+weapon_name_49;Espada del Alba
+weapon_name_50;Espada del Descenso
+weapon_name_51;Espada del Mercenerio
+weapon_name_52;Espada del Tiempo
+weapon_name_53;Espada del Viajero
+weapon_name_54;Espada Larga del Penñasco Oscuro
+weapon_name_55;Espada Lítica
+weapon_name_56;Espada Negra
+weapon_name_57;Espada Plateada
+weapon_name_58;Espada Real del Bosque
+weapon_name_59;Espada Real Larga
+weapon_name_60;Espada Surcacielos
+weapon_name_61;Espadón Cornirrojo
+weapon_name_62;Espina de Hierro
+weapon_name_63;Estrella Invernal
+weapon_name_64;Fin de las Aguas
+weapon_name_65;Flauta
+weapon_name_66;Frío Eterno
+weapon_name_67;Fruto de la Culminación
+weapon_name_68;Garrote del Debate
+weapon_name_69;Gran Espada de Favonius
+weapon_name_70;Gran Espada de Sacrificio
+weapon_name_71;Gran Espada del Guerrero
+weapon_name_72;Gran Espada Real
+weapon_name_73;Gran Espada Sangrienta
+weapon_name_74;Gran Espada Surcacielos
+weapon_name_75;Gran Hoja del Peñasco Oscuro
+weapon_name_76;Grimorio de Bolsillo
+weapon_name_77;Grimorio Real
+weapon_name_78;Guía Mágica
+weapon_name_79;Halcón de Jade
+weapon_name_80;Herrumbre
+weapon_name_81;Historias de Otros Mundos
+weapon_name_82;Hoja Afilada Celestial
+weapon_name_83;Hoja de Filetear
+weapon_name_84;Hoja Desafilada
+weapon_name_85;Hoja Fría
+weapon_name_86;Huso de Cinabrio
+weapon_name_87;Juramento del Arquero
+weapon_name_88;Juramento por la Libertad
+weapon_name_89;Kagotsurube Isshin
+weapon_name_90;La Captura
+weapon_name_91;Lanza de Caza Real
+weapon_name_92;Lanza de Espinadragón
+weapon_name_93;Lanza de Favonius
+weapon_name_94;Lanza del Duelo
+weapon_name_95;Lanza del Peñasco Oscuro
+weapon_name_96;Lanza del Principiante
+weapon_name_97;Lanza Lítica
+weapon_name_98;Lanza Perforanubes
+weapon_name_99;Lápida del Lobo
+weapon_type_1;Arco
+weapon_type_2;Catalizador
+weapon_type_3;Espada
+weapon_type_4;Lanza
+weapon_type_5;Mandoble

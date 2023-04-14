@@ -1,0 +1,580 @@
+﻿id;val
+boss_daily_name_01;Jadeplume Terrorshroom
+boss_daily_name_02;Anemo Hypostasis
+boss_daily_name_03;Cryo Hypostasis
+boss_daily_name_04;Electro Hypostasis
+boss_daily_name_05;Geo Hypostasis
+boss_daily_name_06;Hydro Hypostasis
+boss_daily_name_07;Pyro Hypostasis
+boss_daily_name_08;Coral Defenders
+boss_daily_name_09;Thunder Manifestation
+boss_daily_name_10;Perpetual Mechanical Array
+boss_daily_name_11;Maguu Kenki
+boss_daily_name_12;Primo Geovishap
+boss_daily_name_13;Cryo Regisvine
+boss_daily_name_14;Pyro Regisvine
+boss_daily_name_15;Electro Regisvine
+boss_daily_name_16;Golden Wolflord
+boss_daily_name_17;Rhodeia of Loch
+boss_daily_name_18;Ruin Serpent
+boss_weekly_name_01;Azhdaha
+boss_weekly_name_02;Magatsu Mitake Narukami no Mikoto
+boss_weekly_name_03;Wolf of the North Challenge
+boss_weekly_name_04;Childe
+boss_weekly_name_05;La Signora
+boss_weekly_name_06;Dvalin
+button_1_part1;Cancel
+button_1_part2;Changes
+button_10_part1;Item Boss
+button_10_part2;Normal
+button_10_part3;
+button_11_part1;Item Boss
+button_11_part2;Weekly
+button_11_part3;
+button_2_part1;Save
+button_2_part2;Changes
+button_3;Page 
+button_3a;Previous Page
+button_3b;Next Page
+button_4_part1;Elemental
+button_4_part2;Crystal
+button_4_part3;
+button_5_part1;Talent's
+button_5_part2;Books
+button_5_part3;
+button_6_part1;Weapon Asc
+button_6_part2;Material
+button_6_part3;
+button_7_part1;Mat. Com. 1
+button_7_part2;(T2-T4)
+button_7_part3;
+button_8_part1;Mat. Com. 2
+button_8_part2;(T1-T3)
+button_8_part3;
+button_9_part1;Local
+button_9_part2;Material
+button_9_part3;
+ch_01;Albedo
+ch_02;Aloy
+ch_03;Amber
+ch_04;Arataki Itto
+ch_05;Barbara
+ch_06;Beidou
+ch_07;Bennett
+ch_08;Chongyun
+ch_09;Collei
+ch_10;Diluc
+ch_11;Diona
+ch_12;Dori
+ch_13;Eula
+ch_14;Fischl
+ch_15;Ganyu
+ch_16;Gorou
+ch_17;Hu Tao
+ch_18;Jean
+ch_19;Kaeya
+ch_20;Kaedehara Kazuha
+ch_21;Kamisato Ayaka
+ch_22;Kamisato Ayato
+ch_23;Keqing
+ch_24;Klee
+ch_25;Kujou Sara
+ch_26;Kuki Shinobu
+ch_27;Lisa
+ch_28;Mona
+ch_29;Ningguang
+ch_30;Noelle
+ch_31;Qiqi
+ch_32;Razor
+ch_33;Rosaria
+ch_34;Sucrose
+ch_35;Sangonomiya Kokomi
+ch_36;Sayu
+ch_37;Shenhe
+ch_38;Shikanoin Heizou
+ch_39;Raiden Shogun
+ch_40;Tartaglia
+ch_41;Thoma
+ch_42;Traveler Anemo
+ch_43;Traveler Electro
+ch_44;Traveler Geo
+ch_45;Venti
+ch_46;Xiangling
+ch_47;Xiao
+ch_48;Xingqiu
+ch_49;Xinyan
+ch_50;Yae Miko
+ch_51;Yanfei
+ch_52;Yelan
+ch_53;Yoimiya
+ch_54;Yun Jin
+ch_55;Zhongli
+ch_56;Tignari
+ch_57;Traveler Dendro
+ch_58;Cyno
+ch_59;Candace
+ch_60;Nilou
+ch_61;Nahida
+ch_62;Layla
+ch_63;Wanderer
+ch_64;Faruzan
+ch_65;Alhaitham
+ch_66;Yaoyao
+ch_67;Dehya
+ch_68;Mika
+day_1;Monday-Thursday
+day_2;Tuesday-Friday
+day_3;Wednesday-Saturday
+domain_01;M - Forsaken Rift
+domain_02;L - Taishan Mansion
+domain_03;I - Violet Court
+domain_04;S - Steeple of Ignorance
+domain_05;M - Cecilia Garden
+domain_06;L - Hidden Palace of Lianshan Formula
+domain_07;I - Court of Flowing Sand
+domain_08;S - Tower of Abject Pride
+element_1;Anemo
+element_2;Cryo
+element_3;Dendro
+element_4;Electro
+element_5;Geo
+element_6;Hydro
+element_7;Pyro
+element_cristal_1;Vajrada Amethyst
+element_cristal_2;Shivada Jade
+element_cristal_3;Nagadus Emerald
+element_cristal_4;Vayuda Turquoise
+element_cristal_5;Prithiva Topaz
+element_cristal_6;Varunada Lazurite
+element_cristal_7;Agnidus Agate
+error_01;Character level is higher than target level
+error_02;Weapon level is higher than target level
+error_03;Current Basic Talent is higher than Target Basic Talent
+error_04;Current Elemental Talent is higher than Target Elemental Talent
+error_05;Current Definitive Talent is higher than Target Definitive Talent
+error_06;Current Character Ascension is higher than Target Character Ascension
+error_07;Current Weapon Ascension is higher than Target Weapon Ascension
+error_08;Character level is not an integer
+error_09;Character target level is not an integer
+error_10;Weapon level is not an integer
+error_11;Weapon target level is not an integer
+error_12;Current Basic Talent is not an integer
+error_13;Current Elemental Talent is not an integer
+error_14;Current Definitive Talent is not an integer
+error_15;Target Basic Talent is not an integer
+error_16;Target Elemental Talent is not an integer
+error_17;Target Definitive Talent is not an integer
+error_18;Constellation is not an integer
+error_19;Character level is outside the allowed limits
+error_20;Character target level is outside the allowed limits
+error_21;Weapon level is outside the allowed limits
+error_22;Weapon target level is outside the allowed limits
+error_23;Current Basic Talent is outside the allowed limits
+error_24;Current Elemental Talent is outside the allowed limits
+error_25;Current Definitive Talent is outside the allowed limits
+error_26;Target Basic Talent is outside the allowed limits
+error_27;Target Elemental Talent is outside the allowed limits
+error_28;Target Definitive Talent is outside the allowed limits
+error_29;Constellation is outside the allowed limits
+error_30;Current Character Ascension is not among the listed values
+error_31;Target Character Ascension is higher than Character target level
+error_32;Target Character Ascension is not among the listed values
+error_33;Current Weapon Ascension is not among the listed values
+error_34;Target Weapon Ascension is higher than Weapon target level
+error_35;Target Weapon Ascension is not among the listed values
+error_36;Tier 1 quantity of some item is not an integer
+error_37;Tier 2 quantity of some item is not an integer
+error_38;Tier 3 quantity of some item is not an integer
+error_39;Tier 4 quantity of some item is not an integer
+error_40;Tier 5 quantity of some item is not an integer
+error_q_1;Data filling has 1 error
+error_q_2a;Data filling has 
+error_q_2b; errors
+mat_boss_daily_01;Majestic Hooked Beak
+mat_boss_daily_02;Hurricane Seed
+mat_boss_daily_03;Crystalline Bloom
+mat_boss_daily_04;Lightning Prism
+mat_boss_daily_05;Basalt Pillar
+mat_boss_daily_06;Dew of Repudiation
+mat_boss_daily_07;Smoldering Pearl
+mat_boss_daily_08;Dragonheir's False Fin
+mat_boss_daily_09;Storm Beads
+mat_boss_daily_10;Perpetual Heart
+mat_boss_daily_11;Marionette Core
+mat_boss_daily_12;Juvenile Jade
+mat_boss_daily_13;Hoarfrost Core
+mat_boss_daily_14;Thunderclap Fruitcore
+mat_boss_daily_15;Everflame Seed
+mat_boss_daily_16;Riftborn Regalia
+mat_boss_daily_17;Cleansing Heart
+mat_boss_daily_18;Runic Fang
+mat_boss_daily_19;Light Guiding Tetrahedron
+mat_boss_daily_20;Perpetual Caliber
+mat_boss_daily_21;Quelled Creeper
+mat_boss_daily_22;Pseudo-Stamens
+mat_boss_weekly_01;Dragon Lord's Crown
+mat_boss_weekly_02;Bloodjade Branch
+mat_boss_weekly_03;Gilded Scale
+mat_boss_weekly_04;Mudra of the Malefic General
+mat_boss_weekly_05;The Meaning of Aeons
+mat_boss_weekly_06;Tears of the Calamitous God
+mat_boss_weekly_07;Tail of Boreas
+mat_boss_weekly_08;Ring of Boreas
+mat_boss_weekly_09;Spirit Locket of Boreas
+mat_boss_weekly_10;Tusk of Monoceros Caeli
+mat_boss_weekly_11;Shard of a Foul Legacy
+mat_boss_weekly_12;Shadow of the Warrior
+mat_boss_weekly_13;Molten Moment
+mat_boss_weekly_14;Hellfire Butterfly
+mat_boss_weekly_15;Ashen Heart
+mat_boss_weekly_16;Dvalin's Plume
+mat_boss_weekly_17;Dvalin's Claw
+mat_boss_weekly_18;Dvalin's Sigh
+mat_boss_weekly_19;Puppet Strings
+mat_boss_weekly_20;Mirror of Mushin
+mat_boss_weekly_21;Daka's Bell
+mat_common_1_01;BETA
+mat_common_1_02;Ley Line Sprout
+mat_common_1_03;Chaos Core
+mat_common_1_04;Black Crystal Horn
+mat_common_1_05;Inspector's Sacrificial Knife
+mat_common_1_06;Mist Grass Wick
+mat_common_1_07;Deathly Statuette
+mat_common_1_08;Fossilized Bone Shard
+mat_common_1_09;Concealed Talon
+mat_common_1_10;Robust Fungal Nucleus
+mat_common_1_11;Chaos Oculus
+mat_common_1_12;Chaos Bolt
+mat_common_1_13;Polarizing Prism
+mat_common_1_14;Radiant Prism
+mat_common_1_15;Marked Shell
+mat_common_2_01;BETA
+mat_common_2_02;Rich Red Brocade
+mat_common_2_03;Slime Concentrate
+mat_common_2_04;Weathered Arrowhead
+mat_common_2_05;Famed Handguard
+mat_common_2_06;Golden Raven Insignia
+mat_common_2_07;Lieutenant's Insignia
+mat_common_2_08;Ominous Mask
+mat_common_2_09;Energy Nectar
+mat_common_2_10;Spectral Nucleus
+mat_common_2_11;Forbidden Curse Scroll
+mat_common_2_12;Crystalline Cyst Dust
+mat_domain_book_01;Freedom
+mat_domain_book_02;Resistance
+mat_domain_book_03;Ballad
+mat_domain_book_04;Prosperity
+mat_domain_book_05;Diligence
+mat_domain_book_06;Gold
+mat_domain_book_07;Transience
+mat_domain_book_08;Elegance
+mat_domain_book_09;Light
+mat_domain_book_10;Admonition
+mat_domain_book_11;Ingenuity
+mat_domain_book_12;Praxis
+mat_domain_weapon_01;BETA
+mat_domain_weapon_02;Divine Body from Guyun
+mat_domain_weapon_03;Oasis Garden's Truth
+mat_domain_weapon_04;Scattered Piece of Decarabian's Dream
+mat_domain_weapon_05;Dream of the Dandelion Gladiator
+mat_domain_weapon_06;Mask of the Kijin
+mat_domain_weapon_07;Boreal Wolf's Nostalgia
+mat_domain_weapon_08;Olden Days of Scorching Might
+mat_domain_weapon_09;Mist Veiled Primo Elixir
+mat_domain_weapon_10;Golden Branch of a Distant Sea
+mat_domain_weapon_11;Golden Talisman of the Forest Dew
+mat_domain_weapon_12;Chunk of Aerosiderite
+mat_domain_weapon_13;Narukami's Valor
+mat_local_01;Violetgrass
+mat_local_02;Starconch
+mat_local_03;Cecilia
+mat_local_04;Rukkha­sha­va Mushrooms
+mat_local_05;Jueyun Chili
+mat_local_06;Cor lapis
+mat_local_07;Dendrobium
+mat_local_08;Onikabuto
+mat_local_09;Qingxin
+mat_local_10;Silk Flower
+mat_local_11;Amakumo Fruit
+mat_local_12;Wolfhook
+mat_local_13;Fluorescent Fungus
+mat_local_14;Sea Ganoderma
+mat_local_15;Noctilucous Jade
+mat_local_16;Calla Lily
+mat_local_17;Glaze Lily
+mat_local_18;Kalpalata Lotus
+mat_local_19;Nilotpala Lotus
+mat_local_20;Small Lamp Grass
+mat_local_21;Windwheel Aster
+mat_local_22;Crystal Marrow
+mat_local_23;Naku Weed
+mat_local_24;Sango Pearl
+mat_local_25;Sakura Bloom
+mat_local_26;Dandelion Seed
+mat_local_27;Philanemo Mushroom
+mat_local_28;Valberry
+mat_local_29;Scarab
+mat_local_30;Henna Berry
+mat_local_31;Padisarah
+mat_local_32;Sand Grease Pupa
+menu_1;Character's List
+menu_2;My Characters
+menu_3;Sumary Menu
+menu_4;Inventory / Calculator
+menu_5;Settings
+message_1;Save Settings
+message_10;Do you wish remove this Character?
+message_11;This action will remove the Character from your team
+message_12;Removed Character
+message_13;Your Character had been removed
+message_14;Added Character
+message_15;Your Character had been added
+message_16;Character not found
+message_17;The Character to add is not in your team. Select a Character from the list.
+message_18;¿Desea cambiar el idioma?
+message_19;You will change the language from 
+message_2;Save current settings?
+message_20; to 
+message_21;Language changed
+message_22;Please, restart the app for seeing the changes
+message_3;Error
+message_4;Inputs have invalid values
+message_5;Save Changes
+message_6;Changes have been saved
+message_7;Undo Changes
+message_8;Changes have been reverted
+message_9;Delete Character
+status_1;All
+status_2;Build
+text_1;Select a Character
+text_10;Goal
+text_11;Goal Level: 
+text_12;Goal Weapon's Lvl: 
+text_13;Weapon's Ascension: 
+text_14;Basic
+text_15;Elemental
+text_16;Definitive
+text_17;EDIT MENU CHARACTER
+text_18;Status: 
+text_19;-->
+text_2;Level: 
+text_20;Ready
+text_21;No Ready
+text_22;Character Selected :D
+text_23;SUMARY CHARACTER
+text_24;Mora: 
+text_25;XP Character: 
+text_26;XP Weapon: 
+text_27;Character Status
+text_28;Level
+text_29;Weapon
+text_3;Last Ascension: 
+text_30;Talents
+text_31;GENERAL SUMARY
+text_32;Build Character's
+text_33;All your Characters
+text_34;Character not available
+text_35;Select the Characters you have in your account for analyzing your team
+text_36;Then you could calculate the XP, Mora and needed items for upgrade them
+text_37;Element: 
+text_38;Weapon: 
+text_39;Talent: 
+text_4;Constellation: 
+text_40;Click for add
+text_41;Click for remove
+text_42;Select the Items Category for view and/or edit your Current Inventory
+text_43;Remember Save Changes after editing the fields
+text_44;Item not available
+text_45;Current ---> Target (Build)
+text_46;Total
+text_47;Tier
+text_48;Current Ascension: 
+text_49;Weapon Target Asc: 
+text_5;Weapon: 
+text_50;Others...
+text_51;Farm Ready
+text_52a;Character Build Ready.
+text_52b;Farm now Character no Build.
+text_53;Farm Character Build
+text_54;Domain's Type
+text_55;Character status
+text_56;"Summary Characters ""Build"""
+text_57;Summary All Characters
+text_58;Weapon XP
+text_59;Language: 
+text_6;Weapon's Level:
+text_60;Version: 
+text_61;Thanks to:
+text_62a;Genshin Impact Wiki (https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
+text_62b; -For information about items, characters, also for item's images.
+text_63a;Honey Impact (https://genshin.honeyhunterworld.com/)
+text_63b; -For character's images.
+text_64a;LtFabin (https://github.com/fabaindaiz)
+text_64b; -For helping me with Python and understanding things I wouldn't know otherwise.
+text_7;Ascensioned up to: 
+text_8;Talents:    
+text_9;Actual
+type_day_1;Normal
+type_day_2;Weekly
+type_domain_1;Talent
+type_domain_2;Weapon
+weapon_name_01;Blackcliff Agate
+weapon_name_02;Thundering Pulse
+weapon_name_03;Halberd
+weapon_name_04;Skyward Harp
+weapon_name_05;Wavebreaker's Fin
+weapon_name_06;Hakushin Ring
+weapon_name_07;Apprentice's Notes
+weapon_name_08;Aqua Simulacra
+weapon_name_09;Aquila Favonia
+weapon_name_10;Compound Bow
+weapon_name_100;Mouun's Moon
+weapon_name_101;Everlasting Moonglow
+weapon_name_102;Haran Geppaku Futsu
+weapon_name_103;Engulfing Lightning
+weapon_name_104;Hamayumi
+weapon_name_105;Serpent Spine
+weapon_name_106;Sacrificial Fragments
+weapon_name_107;Messenger
+weapon_name_108;Twin Nephrite
+weapon_name_109;Windblume Ode
+weapon_name_11;Amos' Bow
+weapon_name_110;Song of Broken Pines
+weapon_name_111;Eye of Perception
+weapon_name_112;Oathsworn Eye
+weapon_name_113;Lost Prayer to the Sacred Winds
+weapon_name_114;Emerald Orb
+weapon_name_115;Skyward Pride
+weapon_name_116;Calamity Queller
+weapon_name_117;Dragon's Bane
+weapon_name_118;Moonpiercer
+weapon_name_119;Skyward Atlas
+weapon_name_12;Raven Bow
+weapon_name_120;Solar Pearl
+weapon_name_121;Crescent Pike
+weapon_name_122;Prototype Amber
+weapon_name_123;Prototype Archaic
+weapon_name_124;Prototype Starglitter
+weapon_name_125;Prototype Crescent
+weapon_name_126;Prototype Rancour
+weapon_name_127;Skyward Spine
+weapon_name_128;Iron Point
+weapon_name_129;Quartz
+weapon_name_13;Ebony Bow
+weapon_name_130;Mistsplitter Reforged
+weapon_name_131;Luxurious Sea-Lord
+weapon_name_132;Akuoumaru
+weapon_name_133;Summit Shaper
+weapon_name_134;Lion's Roar
+weapon_name_135;Rainslasher
+weapon_name_136;Hunter's Path
+weapon_name_137;The Widsith
+weapon_name_138;Whiteblind
+weapon_name_139;Ferrous Shadow
+weapon_name_14;Favonius Warbow
+weapon_name_140;Slingshot
+weapon_name_141;The Stringless
+weapon_name_142;Mitternachts Waltz
+weapon_name_143;King's Squire
+weapon_name_144;Wine and Song
+weapon_name_145;Staff of the Scarlet Sands
+weapon_name_146;Makhaira Aquamarine
+weapon_name_147;Key of Khaj-Nisut
+weapon_name_148;Xiphos' Moonlight
+weapon_name_149;Wandering Evenstar
+weapon_name_15;The Viridescent Hunt
+weapon_name_150;Missive Windspear
+weapon_name_151;Tulaytullah's Remembrance
+weapon_name_152;Toukabou Shigure
+weapon_name_153;Light of Foliar Incision
+weapon_name_154;Beacon of the Reed Sea
+weapon_name_155;Mailed Flower
+weapon_name_16;Hunter's Bow
+weapon_name_17;Seasoned Hunter's Bow
+weapon_name_18;Blackcliff Warbow
+weapon_name_19;Sacrificial Bow
+weapon_name_20;Royal Bow
+weapon_name_21;Recurve Bow
+weapon_name_22;Snow-Tombed Starsilver
+weapon_name_23;Katsuragikiri Nagamasa
+weapon_name_24;Kagura's Verity
+weapon_name_25;Staff of Homa
+weapon_name_26;White Tassel
+weapon_name_27;Black Tassel
+weapon_name_28;Memory of Dust
+weapon_name_29;Mappa Mare
+weapon_name_30;Amber Catalyst
+weapon_name_31;Alley Hunter
+weapon_name_32;Favonius Codex
+weapon_name_33;Primordial Jade Cutter
+weapon_name_34;Kitain Cross Spear
+weapon_name_35;Thrilling Tales of Dragon Slayers
+weapon_name_36;Dodoco Tales
+weapon_name_37;Predator
+weapon_name_38;Festering Desire
+weapon_name_39;The Alley Flash
+weapon_name_40;Fading Twilight
+weapon_name_41;Elegy for the End
+weapon_name_42;Amenoma Kageuchi
+weapon_name_43;Favonius Sword
+weapon_name_44;White Iron Greatsword
+weapon_name_45;Dark Iron Sword
+weapon_name_46;The Unforged
+weapon_name_47;Sapwood Blade
+weapon_name_48;Sacrificial Sword
+weapon_name_49;Harbinger of Dawn
+weapon_name_50;Sword of Descension
+weapon_name_51;Old Merc's Pal
+weapon_name_52;The Bell
+weapon_name_53;Traveler's Handy Sword
+weapon_name_54;Blackcliff Longsword
+weapon_name_55;Lithic Blade
+weapon_name_56;The Black Sword
+weapon_name_57;Silver Sword
+weapon_name_58;Forest Regalia
+weapon_name_59;Royal Longsword
+weapon_name_60;Skyrider Sword
+weapon_name_61;Redhorn Stonethresher
+weapon_name_62;Iron Sting
+weapon_name_63;Polar Star
+weapon_name_64;End of the Line
+weapon_name_65;The Flute
+weapon_name_66;Frostbearer
+weapon_name_67;Fruit of Fulfillment
+weapon_name_68;Debate Club
+weapon_name_69;Favonius Greatsword
+weapon_name_70;Sacrificial Greatsword
+weapon_name_71;Waster Greatsword
+weapon_name_72;Royal Greatsword
+weapon_name_73;Bloodtainted Greatsword
+weapon_name_74;Skyrider Greatsword
+weapon_name_75;Blackcliff Slasher
+weapon_name_76;Pocket Grimoire
+weapon_name_77;Royal Grimoire
+weapon_name_78;Magic Guide
+weapon_name_79;Primordial Jade Winged-Spear
+weapon_name_80;Rust
+weapon_name_81;Otherworldly Story
+weapon_name_82;Skyward Blade
+weapon_name_83;Fillet Blade
+weapon_name_84;Dull Blade
+weapon_name_85;Cool Steel
+weapon_name_86;Cinnabar Spindle
+weapon_name_87;Sharpshooter's Oath
+weapon_name_88;Freedom-Sworn
+weapon_name_89;Kagotsurube Isshin
+weapon_name_90;The Catch
+weapon_name_91;Royal Spear
+weapon_name_92;Dragonspine Spear
+weapon_name_93;Favonius Lance
+weapon_name_94;Deathmatch
+weapon_name_95;Blackcliff Pole
+weapon_name_96;Beginner's Protector
+weapon_name_97;Lithic Spear
+weapon_name_98;Vortex Vanquisher
+weapon_name_99;Wolf's Gravestone
+weapon_type_1;Bows
+weapon_type_2;Catalysts
+weapon_type_3;Swords
+weapon_type_4;Polearms
+weapon_type_5;Claymore

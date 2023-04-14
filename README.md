@@ -4,3 +4,5 @@
 
  Esta es una Calculadora para Genshin Impact, puedes seleccionar a los Personajes que tienes en tu equipo, y asi calcular los items que tienes que farmear, ademas de la mora y experiencia.
  Rehice este programa varias veces, así que preferí subirlo a Github y con el tiempo ir actualizandolo (con nuevos objetos, personajes, y nuevas características.)
+ 
+ Genshin Impact Version: 3.5
